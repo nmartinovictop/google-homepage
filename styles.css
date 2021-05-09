@@ -1,0 +1,14 @@
+* {
+    border: 1px red solid;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+}
+

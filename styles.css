@@ -2,17 +2,25 @@
     border: 1px red solid;
 }
 
+body {
+    margin: 0;
+}
+
 .logo {
     text-align: center;
 }
 
-.logo-holder {
+/* .logo-holder {
     height: 50%;
-}
+} */
 
 .search-bar {
     display: flex;
     justify-content: center;
+}
+
+.search-input {
+    width: 30%;
 }
 
 ul {
@@ -23,4 +31,26 @@ ul {
 
   li {
       display: inline;
+  }
+
+  .nav-menu {
+      text-align: right;
+  }
+
+  .button {
+      text-align: center;
+  }
+
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .footer2 {
+      display: inline-block;
+  }
+
+  .nav2 {
+      right: 0;
   }

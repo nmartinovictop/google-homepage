@@ -45,12 +45,6 @@ ul {
     position: fixed;
     bottom: 0;
     width: 100%;
-  }
-
-  .footer2 {
-      display: inline-block;
-  }
-
-  .nav2 {
-      right: 0;
+    display: flex;
+    justify-content: space-between;
   }

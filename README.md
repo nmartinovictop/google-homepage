@@ -5,6 +5,7 @@ My goal for this project is to recreate the Google Homepage.  It will test my HT
 TODO:
 - Center the google logo to middle of screen
 
+- 2021-05-24: Working on Google page and adding icons to form
 - 2021-05-23: Working on google page.  Top nave specifically.
 - 2021-05-22: Finished flexbox course
 - 2021-05-20: More flexbox

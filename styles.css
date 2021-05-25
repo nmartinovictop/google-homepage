@@ -43,6 +43,8 @@ body {
     justify-content: center;
     padding: 10px;
     outline: none;
+    width: 100%;
+   margin-bottom: 10px;
 }
 
 textarea:focus, input:focus{
@@ -99,9 +101,9 @@ button:hover {
 
 .search-input {
     width: 30%;
-    border-radius: 50px;
+    border-radius: 30px;
     height: 45px;
-    ;
+    border-color:lightgray;
 }
 
 .search-input:hover {

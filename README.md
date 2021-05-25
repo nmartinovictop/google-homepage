@@ -2,8 +2,9 @@
 
 My goal for this project is to recreate the Google Homepage.  It will test my HTML and CSS skills.  
 
-TODO:
-- Center the google logo to middle of screen
+I started this on May 14th and pushed the final commit on May 25th, working 30-60 minutes a night. I had to learn a lot about flexbox in order to do it.
+
+I struggled with adding icons to the form input.  This is something I will need to come back to once I have spent more time on HTML.
 
 - 2021-05-24: Working on Google page and adding icons to form
 - 2021-05-23: Working on google page.  Top nave specifically.
